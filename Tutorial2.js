@@ -1,0 +1,1 @@
+console.log("Tutorial 2 - Version 1");
