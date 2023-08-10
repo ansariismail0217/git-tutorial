@@ -1,1 +1,1 @@
-console.log("Tutorial 1 - Version 2");
+console.log("Tutorial 1 - Version 1");
